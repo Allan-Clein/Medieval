@@ -64,6 +64,3 @@ def slime_inicial():
     idano = slime_iniciante['dano']
     ivida = slime_iniciante['vida']
     danototal = 0
-
-
-#o iais dias idasoi da
