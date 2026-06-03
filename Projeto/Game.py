@@ -1,12 +1,12 @@
-import banco
-import Inimigos as Iny
-import lore
+import Projeto.banco as banco
+import Projeto.Inimigos as Iny
+import Projeto.lore as lore
 import random as rn
 import os
 import time
-import battle
-import Bestiary as Bt
-import viagem as v
+import Projeto.battle as battle
+import Projeto.Bestiary as Bt
+import Projeto.viagem as v
 import threading
 
 def clear():
@@ -203,3 +203,5 @@ while True:
 
 while True:
     Action()
+
+    #aaaaaaaaaaaaa
