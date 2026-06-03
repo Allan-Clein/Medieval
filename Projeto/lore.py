@@ -1,5 +1,5 @@
 import os
-import banco
+import Projeto.banco as banco
 
 name = ""
 def clear():

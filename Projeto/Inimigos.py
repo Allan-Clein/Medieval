@@ -6,8 +6,8 @@ danototal = 0
 Encontrados = 0
 amplitude = 0
 import threading
-import Bestiary
-import viagem as v
+import Projeto.Bestiary as Bestiary
+import Projeto.viagem as v
 
 aptos = []
 
